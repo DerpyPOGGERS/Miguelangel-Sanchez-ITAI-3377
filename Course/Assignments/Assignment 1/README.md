@@ -1,0 +1,2 @@
+The main problem was, understanding how to build and use tools for an Edge AI and IoT system. The goal was to see how to get data closer to the device since this helps reduce delays and improve speed. 
+To solve this, we explored different development tools used in Edge AI and IoT systems. Such as Visual studio, Node.js or even Tensorflow. The result showed me a better understanding of how all these tools work together to create a full Edge AI system.
