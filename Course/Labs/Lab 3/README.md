@@ -1,0 +1,1 @@
+In this lab, we worked on an IoT project where I collected and analyzed temperature data. Also exploring how IoT systems send and receive data in order to be used for monitoring. I learned how IoT systems collect real-world data and how that data can be analyzed using programming. One challenge was, understanding how the data starts flowing from the IoT system into the program.
